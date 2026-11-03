@@ -1,6 +1,7 @@
 # Pat and Huey's Coffee — Voice AI Agent
 
-Annotated codebase shown in the Twilio x OpenAI quickstart video
+Annotated codebase shown in the Twilio x OpenAI quickstart video.
+Learn more at the [Twilio x OpenAI integrators page](https://www.twilio.com/en-us/integrations/open-ai).
 
 A ~100-line demo of a real-time **voice AI agent** that answers phone calls for a
 (fictional) coffee shop and *remembers returning callers*. It's built on
